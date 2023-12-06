@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Naresh Kumar patidar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
